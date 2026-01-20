@@ -25863,6 +25863,43 @@ stock GetClosestVehicle(playerid, &Float: dis = (Float: 0x7F800000))
 
 stock RemoveObjectsForPlayer(playerid)
 {
+
+   	RemoveBuildingForPlayer(playerid, 3326, 2246.4141, 0.4219, 28.8125, 0.25);
+	RemoveBuildingForPlayer(playerid, 3329, 2267.3750, 0.8516, 26.4688, 0.25);
+	RemoveBuildingForPlayer(playerid, 13461, 2373.2344, 29.1719, 30.3438, 0.25);
+	RemoveBuildingForPlayer(playerid, 1308, 2223.8984, 31.7109, 25.6406, 0.25);
+	RemoveBuildingForPlayer(playerid, 726, 2228.4141, 21.7578, 24.5547, 0.25);
+	RemoveBuildingForPlayer(playerid, 3317, 2246.4141, 0.4219, 28.8125, 0.25);
+	RemoveBuildingForPlayer(playerid, 13374, 2241.4063, 21.4609, 33.1719, 0.25);
+	RemoveBuildingForPlayer(playerid, 3314, 2267.3750, 0.8516, 26.4688, 0.25);
+	RemoveBuildingForPlayer(playerid, 1294, 2285.5469, -0.1406, 29.8125, 0.25);
+	RemoveBuildingForPlayer(playerid, 1308, 2284.0469, 19.2656, 25.6797, 0.25);
+	RemoveBuildingForPlayer(playerid, 729, 2269.0938, 14.6875, 25.3672, 0.25);
+	RemoveBuildingForPlayer(playerid, 1419, 2283.7734, 16.8906, 27.9609, 0.25);
+	RemoveBuildingForPlayer(playerid, 1419, 2283.7734, 12.8125, 27.9609, 0.25);
+	RemoveBuildingForPlayer(playerid, 1419, 2283.7734, 8.7266, 27.9609, 0.25);
+	RemoveBuildingForPlayer(playerid, 1419, 2283.7734, 4.6484, 27.9609, 0.25);
+	RemoveBuildingForPlayer(playerid, 1419, 2283.7734, 0.5625, 27.9609, 0.25);
+	RemoveBuildingForPlayer(playerid, 1294, 2284.9922, 32.8047, 29.8125, 0.25);
+	RemoveBuildingForPlayer(playerid, 1351, 2283.5625, 36.0313, 25.4375, 0.25);
+	RemoveBuildingForPlayer(playerid, 1351, 2283.5625, 36.0313, 25.4375, 0.25);
+	RemoveBuildingForPlayer(playerid, 1308, 2284.0703, -18.4922, 25.6797, 0.25);
+	RemoveBuildingForPlayer(playerid, 1418, 2253.1563, -18.2656, 26.2188, 0.25);
+	RemoveBuildingForPlayer(playerid, 1418, 2256.7188, -18.2656, 26.2188, 0.25);
+	RemoveBuildingForPlayer(playerid, 1418, 2264.6016, -18.2656, 26.2188, 0.25);
+	RemoveBuildingForPlayer(playerid, 1418, 2261.0391, -18.2656, 26.2188, 0.25);
+	RemoveBuildingForPlayer(playerid, 1418, 2275.0156, -18.2656, 26.2188, 0.25);
+	RemoveBuildingForPlayer(playerid, 1418, 2268.1172, -18.2656, 26.2188, 0.25);
+	RemoveBuildingForPlayer(playerid, 1419, 2283.7734, -15.7891, 27.1641, 0.25);
+	RemoveBuildingForPlayer(playerid, 3407, 2282.8750, -18.2031, 25.4688, 0.25);
+	RemoveBuildingForPlayer(playerid, 3408, 2243.8750, -18.0703, 25.4766, 0.25);
+	RemoveBuildingForPlayer(playerid, 782, 2252.6484, -13.5078, 25.5547, 0.25);
+	RemoveBuildingForPlayer(playerid, 765, 2260.6172, -10.6094, 25.5313, 0.25);
+	RemoveBuildingForPlayer(playerid, 1419, 2283.7734, -11.7031, 27.3750, 0.25);
+	RemoveBuildingForPlayer(playerid, 733, 2224.6719, -8.5938, 24.5156, 0.25);
+	RemoveBuildingForPlayer(playerid, 1419, 2283.7734, -3.5156, 27.8047, 0.25);
+	RemoveBuildingForPlayer(playerid, 1419, 2283.7734, -7.6094, 27.5938, 0.25);
+
 	//EL PARD EXT/INT BY QUIX
 	RemoveBuildingForPlayer(playerid, 4051, 1371.820, -1754.820, 19.046, 0.250);
 	RemoveBuildingForPlayer(playerid, 4021, 1371.820, -1754.820, 19.046, 0.250);
